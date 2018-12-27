@@ -1,5 +1,9 @@
 body {
-  font-family: Helvetica;
+  font-family: "Helvetica", sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
 }
 
 .hero {
@@ -10,7 +14,6 @@ body {
 
 .hero h1 {
   font-size: 70px;
-  font-weight: bold;
 }
 
 .header-text {
@@ -20,4 +23,21 @@ body {
 
 a {
   color: white;
+}
+
+.supporting {
+  text-align: center;
+}
+
+.supporting h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.supporting h3 {
+  font-size: 23px;
+}
+
+.supporting p {
+  font-size: 14px;
 }

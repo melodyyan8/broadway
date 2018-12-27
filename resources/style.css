@@ -41,3 +41,8 @@ a {
 .supporting p {
   font-size: 14px;
 }
+
+.hero h2 {
+  font-weight: bold;
+  font-size: 23px;
+}
